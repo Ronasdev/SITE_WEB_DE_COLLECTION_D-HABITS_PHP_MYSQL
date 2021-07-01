@@ -1,0 +1,2 @@
+# SITE_WEB_DE_COLLECTION_D-HABITS_PHP_MYSQL
+  Aujourd'hui,vous allez découvrir comment mettre en place une application web qui permet d'afficher, d'ajouter,de modifier,de supprimer et de rechercher notamment un article stocker dans la BDD grâce à une barre de recherche. Pour le faire,j'ai mis en place un site de presentation des collection d'habits en fonction du modele et du pays d'origine. Vous allez apprendre à manipuler le CSS grâce à des class et id,à manipuler le langage PHP de façon structurée mais aussi à écrire des requêtes SQL(préparées ou non).
